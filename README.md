@@ -1,2 +1,16 @@
 # Skin-Disease-Prediction
-This Skin Disease prediction system uses AI, machine learning, deep learning and image processing and recognition to identify the type of skin disease by recognizing the image uploaded. If the image can not be identified under any trained data set model then disclaimer is provided with most probable disease prediction confidence rate.
+This project is an AI-powered skin disease detection system that uses Deep Learning and Computer
+Vision techniques to classify skin diseases from images.
+The model is built using MobileNetV2 Transfer Learning and can identify the following diseases:
+BA-cellulitis
+BA-impetigo
+FU-athlete-foot
+FU-nail-fungus
+FU-ringworm
+PA-cutaneous-larva-migrans
+VI-chickenpox
+VI-shingles
+Dataset Information
+Total Training Images: 924
+Total Test Images: 233
+Number of Classes: 8
