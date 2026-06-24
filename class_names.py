@@ -1,0 +1,10 @@
+class_names = [
+    "BA- cellulitis",
+    "BA-impetigo",
+    "FU-athlete-foot",
+    "FU-nail-fungus",
+    "FU-ringworm",
+    "PA-cutaneous-larva-migrans",
+    "VI-chickenpox",
+    "VI-shingles"
+]
